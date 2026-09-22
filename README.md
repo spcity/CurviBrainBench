@@ -5,11 +5,7 @@ CurviBrainBench: An Online Sequential Benchmark
 The implementation accompanying our submitted manuscript is currently packaged in an encrypted archive (`.zip`) for review purposes.
 
 * **Archive Password:** `JBHI-XXXXX-2026` *(replace `XXXXX` with the manuscript tracking ID)*
-* **Extraction:** Use standard extraction tools (e.g., 7-Zip, Archive Utility) or run:
-```bash
-unzip -P JBHI-XXXXX-2026 code.zip
-
-```
+* **Extraction:** Use standard extraction tools
 
 
 
